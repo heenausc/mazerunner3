@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mazerunner3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mazerunner3_jar</output-path>
+    <root id="archive" name="mazerunner3.jar">
+      <element id="module-output" name="mazerunner3" />
+      <element id="extracted-dir" path="D:/Spring/repository/junit/junit/4.12/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Spring/repository/junit/junit/4.12/junit-4.12-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/NetBeans 7.4/javafx/modules/org-netbeans-modules-javafx2-kit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/NetBeans 7.4/javafx/modules/org-netbeans-modules-javafx2-editor.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/NetBeans 7.4/javafx/modules/org-netbeans-modules-javafx2-project.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/NetBeans 7.4/javafx/modules/org-netbeans-modules-javafx2-samples.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/NetBeans 7.4/javafx/modules/org-netbeans-modules-javafx2-platform.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/NetBeans 7.4/javafx/modules/org-netbeans-modules-javafx2-scenebuilder.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resource" />
+    </root>
+  </artifact>
+</component>

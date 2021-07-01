@@ -1,0 +1,1 @@
+java -jar mazerunner3.jar
